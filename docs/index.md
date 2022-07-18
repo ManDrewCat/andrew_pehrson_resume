@@ -8,7 +8,7 @@ title: Brigham Young's Resume
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="atpehrson@byu.edu">datascience@byui.edu</a>
+<a href="atpehrson@byu.edu">atpehrson@byui.edu</a>
 <!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
 | <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
